@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
+- 🔭 I’m currently working on improving my Web Development skills
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate on any fun project
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubham-bhardwaj-23250b173)
 <!--
 **Shubh4m-B/Shubh4m-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
