@@ -1,4 +1,4 @@
-# Hi there, I am [Shubham](https://www.linkedin.com/in/shubham-bhardwaj-23250b173) 👋
+<img src="Header.png" alt="My header" height="600px">
 
 - 🔭 I’m currently working on improving my Web Development skills
 - 🌱 I’m currently learning React.js
