@@ -1,4 +1,4 @@
-![Header Image](https://github.com/Shubh4m-B/Shubh4m-B/blob/master/Header2.png?raw=true)
+![Header Image](https://github.com/Shubh4m-B/Shubh4m-B/blob/master/Header.png?raw=true)
 
 - 🔭 I’m currently working on improving my Web Development skills
 - 🌱 I’m currently learning React.js
