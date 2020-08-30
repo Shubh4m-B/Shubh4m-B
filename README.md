@@ -8,7 +8,8 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh4m-B)](https://github.com/Shubh4m-B/github-readme-stats) -->
 ### My Stats
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Shubh4m-B&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Shubh4m-B)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Shubh4m-B&show_icons=true&title_color=fff&icon_color=324ae6&text_color=a6a6ff&bg_color=00001c)](https://github.com/Shubh4m-B)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh4m-B&show_icons=true&title_color=fff&icon_color=324ae6&text_color=a6a6ff&bg_color=00001c)](https://github.com/Shubh4m-B/github-readme-stats)
 <!--
 **Shubh4m-B/Shubh4m-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
