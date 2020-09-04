@@ -3,10 +3,10 @@
     <a href="https://twitter.com/Shubh4m_B">
       <img alt="Shubham's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
     </a>
-    <a href=href="https://www.linkedin.com/in/shubham-bhardwaj-23250b173">
+    <a href="https://www.linkedin.com/in/shubham-bhardwaj-23250b173">
       <img alt="Shubham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     </a>
-    <a href=href="https://instagram.com/shubh4m_b">
+    <a href="https://instagram.com/shubh4m_b">
       <img alt="Shubham's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     </a>
 </p>
