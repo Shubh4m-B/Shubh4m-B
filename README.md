@@ -1,13 +1,13 @@
 ![Header Image](https://github.com/Shubh4m-B/Shubh4m-B/blob/master/Header.png?raw=true)
 <p align="center">
     <a href="https://twitter.com/Shubh4m_B">
-      <img alt="Shubham's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+      <img alt="Shubham's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
     </a>
     <a href="https://www.linkedin.com/in/shubham-bhardwaj-23250b173">
-      <img alt="Shubham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+      <img alt="Shubham's LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     </a>
     <a href="https://instagram.com/shubh4m_b">
-      <img alt="Shubham's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+      <img alt="Shubham's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     </a>
 </p>
 
