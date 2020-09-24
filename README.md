@@ -13,7 +13,7 @@
 
 ### About
 - 🔭 I’m currently working on improving my Web Development skills
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js, Adobe Photoshop and UI/UX Designing
 - 👯 I’m looking to collaborate on any fun project
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubham-bhardwaj-23250b173)
 - ⚡ Fun fact: I am PotterHead :)
