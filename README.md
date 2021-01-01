@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning React.js, Adobe Photoshop and UI/UX Designing
 - 👯 I’m looking to collaborate on any fun project
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubham-bhardwaj-23250b173)
-- ⚡ Fun fact: I am PotterHead [Repello Muggletum] 😄 
+<!-- - ⚡ Fun fact: I am PotterHead [Repello Muggletum] 😄 -->
 
 ### Tools and Technologies
 <p align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin:20px"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
