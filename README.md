@@ -31,6 +31,10 @@
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Shubh4m-B&show_icons=true&title_color=fff&icon_color=324ae6&text_color=fff&bg_color=00001c)](https://github.com/Shubh4m-B)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh4m-B&show_icons=true&title_color=fff&icon_color=324ae6&text_color=fff&bg_color=00001c)](https://github.com/Shubh4m-B/github-readme-stats)
 
+
+<br><br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shubh4m-B&label=Profile%20views&color=0e75b6&style=flat" alt="Shubh4m-B" /> </p>
+
 <!--
 **Shubh4m-B/Shubh4m-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
