@@ -27,9 +27,9 @@
 <img height="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></p> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh4m-B)](https://github.com/Shubh4m-B/github-readme-stats) -->
-### My Stats
+<!-- ### My Stats
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Shubh4m-B&show_icons=true&title_color=fff&icon_color=324ae6&text_color=fff&bg_color=00001c)](https://github.com/Shubh4m-B)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh4m-B&show_icons=true&title_color=fff&icon_color=324ae6&text_color=fff&bg_color=00001c)](https://github.com/Shubh4m-B/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh4m-B&show_icons=true&title_color=fff&icon_color=324ae6&text_color=fff&bg_color=00001c)](https://github.com/Shubh4m-B/github-readme-stats) -->
 
 <!---
 <br><br>
